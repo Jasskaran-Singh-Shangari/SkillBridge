@@ -1,3 +1,5 @@
+- Dear KrafThink Judges, Our product was the application, so ignore the Readme for the website and delete the file `WEBSITE` after cloning.
+
 # SkillBridge - A Side Hustle for Mentors, A path forward for students 
  ## SkillBridge - The Application (Prototype) (Sneek Peek)
  <img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/Demo_Images/skillbridge-app.png' width="80%"/>
