@@ -85,6 +85,8 @@ To run the project in your local environment, follow these steps: ⬇️
  <img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/Demo_Images/skillbridge-app.png' width="80%"/>
  
 SkillBridge is a mentorship and appointment booking application built using Flutter and BLoC for efficient state management. It will seamlessly connect students with experienced mentors, allowing them to schedule one-on-one sessions, receive career guidance, and provide feedback through a rating system. The use of BLoC ensures a structured and scalable approach to managing app states, enhancing performance and user experience. SkillBridge empowers students to make informed career choices while enabling mentors to earn recognition and additional income.
+
+###`To run the app effeciently, it will be better to remove the folder "WEBSITE" as it contains the code for the SkillBridge website.`
  
  ## ⚡ Technologies 
  * `Flutter(Dart)` - The primary framework for building cross-platform mobile applications.
