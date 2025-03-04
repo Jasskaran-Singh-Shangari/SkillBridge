@@ -1,8 +1,58 @@
 # SkillBridge - A Side Hustle for Mentors, A path forward for students 
+ ## SkillBridge - The Application (Prototype) (Sneek Peek)
+ <img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/Demo_Images/skillbridge-app.png' width="80%"/>
+ 
+SkillBridge is a mentorship and appointment booking application built using Flutter and BLoC for efficient state management. It will seamlessly connect students with experienced mentors, allowing them to schedule one-on-one sessions, receive career guidance, and provide feedback through a rating system. The use of BLoC ensures a structured and scalable approach to managing app states, enhancing performance and user experience. SkillBridge empowers students to make informed career choices while enabling mentors to earn recognition and additional income.
+
+###`To run the app effeciently, it will be better to remove the folder "WEBSITE" as it contains the code for the SkillBridge website.`
+ 
+ ## ⚡ Technologies 
+ * `Flutter(Dart)` - The primary framework for building cross-platform mobile applications.
+ * `Firebase` - Provides a serverless backend and means for authentication. (Will be used when app is further developed)
+ * `Styled-widget` - Provides responsive UI design
+
+ ## 🛠 Dependecies
+ * `Cupertino-icons` - Provides iOS-style icons.
+ * `flutter_launcher_icons` - Customization of app icons for iOS and Android. Etc.
+
+
+## 🚦 Running the Project
+
+To run the project
+
+### You need: 
+- Flutter
+- Android Studio
+- For Demo testing, you can open it in browser, if any error arises.
+
+### Download the dependencies using the command: ⬇️
+```sh
+# Install dependencies
+flutter pub get
+# Start the app
+flutter run
+```
+
+## 🌍 How the prototype looks 
+<details>
+ <summary> <h3>📸 - Demo Images</h3> (Drop Down) </summary>
+<img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/Demo_Images/AppDemo1.jpeg' width="45%"/>
+
+#
+
+<img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/Demo_Images/AppDemo2.jpeg' width="45%"/>
+
+#
+
+<img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/Demo_Images/AppDemo3.jpeg' width="45%"/>
+
+</details>
+
+## SkillBridge - The Website
 <img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/Demo_Images/SkillBridge-logo.png' width="80%"/>
 A mentor appointment booking website built with mongodb, express, reactjs and nodejs.
 
-# 💡About this project 
+## 💡About this project 
 Welcome to SkillBridge, your trusted platform for empowering students and mentors through seamless guidance and collaboration. At SkillBridge, we recognize the challenges students face in navigating their academic and professional journeys, and we strive to make mentorship more accessible and impactful.
 
 SkillBridge is dedicated to enhancing the mentorship experience with cutting-edge technology. Our platform ensures that students can connect with the right mentors, schedule meetings effortlessly, and track their progress, while mentors can manage sessions and showcase their contributions effectively. Whether you're a student seeking guidance or a mentor looking to share your expertise, SkillBridge is here to support you every step of the way.
@@ -81,51 +131,3 @@ To run the project in your local environment, follow these steps: ⬇️
 
 </details>
 
- # SkillBridge - The Application (Prototype) (Sneek Peek)
- <img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/Demo_Images/skillbridge-app.png' width="80%"/>
- 
-SkillBridge is a mentorship and appointment booking application built using Flutter and BLoC for efficient state management. It will seamlessly connect students with experienced mentors, allowing them to schedule one-on-one sessions, receive career guidance, and provide feedback through a rating system. The use of BLoC ensures a structured and scalable approach to managing app states, enhancing performance and user experience. SkillBridge empowers students to make informed career choices while enabling mentors to earn recognition and additional income.
-
-###`To run the app effeciently, it will be better to remove the folder "WEBSITE" as it contains the code for the SkillBridge website.`
- 
- ## ⚡ Technologies 
- * `Flutter(Dart)` - The primary framework for building cross-platform mobile applications.
- * `Firebase` - Provides a serverless backend and means for authentication. (Will be used when app is further developed)
- * `Styled-widget` - Provides responsive UI design
-
- ## 🛠 Dependecies
- * `Cupertino-icons` - Provides iOS-style icons.
- * `flutter_launcher_icons` - Customization of app icons for iOS and Android. Etc.
-
-
-## 🚦 Running the Project
-
-To run the project
-
-### You need: 
-- Flutter
-- Android Studio
-- For Demo testing, you can open it in browser, if any error arises.
-
-### Download the dependencies using the command: ⬇️
-```sh
-# Install dependencies
-flutter pub get
-# Start the app
-flutter run
-```
-
-## 🌍 How the prototype looks 
-<details>
- <summary> <h3>📸 - Demo Images</h3> (Drop Down) </summary>
-<img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/Demo_Images/AppDemo1.jpeg' width="45%"/>
-
-#
-
-<img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/Demo_Images/AppDemo2.jpeg' width="45%"/>
-
-#
-
-<img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/Demo_Images/AppDemo3.jpeg' width="45%"/>
-
-</details>
