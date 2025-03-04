@@ -1,5 +1,5 @@
 # SkillBridge - A Side Hustle for Mentors, A path forward for students 
-<img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/frontend/src/assets/assets_frontend/SkillBridge-logo.png' width="80%"/>
+<img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/Demo_Images/SkillBridge-logo.png' width="80%"/>
 A mentor appointment booking website built with mongodb, express, reactjs and nodejs.
 
 # 💡About this project 
@@ -82,7 +82,7 @@ To run the project in your local environment, follow these steps: ⬇️
 </details>
 
  # SkillBridge - The Application (Prototype) (Sneek Peek)
- <img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/frontend/src/assets/assets_frontend/skillbridge-app.png' width="80%"/>
+ <img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/Demo_Images/skillbridge-app.png' width="80%"/>
  
 SkillBridge is a mentorship and appointment booking application built using Flutter and BLoC for efficient state management. It will seamlessly connect students with experienced mentors, allowing them to schedule one-on-one sessions, receive career guidance, and provide feedback through a rating system. The use of BLoC ensures a structured and scalable approach to managing app states, enhancing performance and user experience. SkillBridge empowers students to make informed career choices while enabling mentors to earn recognition and additional income.
  
@@ -114,14 +114,14 @@ flutter pub get
 ## 🌍 How the prototype looks 
 <details>
  <summary> 📸 - Demo Images </summary>
- #
- #
- #
+<img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/Demo_Images/AppDemo1.jpeg' width="45%"/>
+
+#
+
+<img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/Demo_Images/AppDemo2.jpeg' width="45%"/>
+
+#
+
+<img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/Demo_Images/AppDemo3.jpeg' width="45%"/>
+
 </details>
-
-
-
-
-
-
-
