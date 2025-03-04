@@ -1,12 +1,10 @@
-- Dear KrafThink Judges, Our product was the application, so ignore the Readme for the website and delete the file `WEBSITE` after cloning.
+###`Dear KrafThink Judges, our product was an application, so ignore the Readme for the website. To run the app effeciently, it will be better to remove the folder "WEBSITE" after cloning as it contains the code for the SkillBridge website.`
 
 # SkillBridge - A Side Hustle for Mentors, A path forward for students 
  ## SkillBridge - The Application (Prototype) (Sneek Peek)
  <img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/Demo_Images/skillbridge-app.png' width="80%"/>
  
 SkillBridge is a mentorship and appointment booking application built using Flutter and BLoC for efficient state management. It will seamlessly connect students with experienced mentors, allowing them to schedule one-on-one sessions, receive career guidance, and provide feedback through a rating system. The use of BLoC ensures a structured and scalable approach to managing app states, enhancing performance and user experience. SkillBridge empowers students to make informed career choices while enabling mentors to earn recognition and additional income.
-
-###`To run the app effeciently, it will be better to remove the folder "WEBSITE" as it contains the code for the SkillBridge website.`
  
  ## ⚡ Technologies 
  * `Flutter(Dart)` - The primary framework for building cross-platform mobile applications.
