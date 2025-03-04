@@ -100,20 +100,22 @@ SkillBridge is a mentorship and appointment booking application built using Flut
 
 To run the project
 
-## 1️⃣ You need: 
+### You need: 
 - Flutter
 - Android Studio
 - For Demo testing, you can open it in browser, if any error arises.
 
-## Download the dependencies using the command: ⬇️
+### Download the dependencies using the command: ⬇️
 ```sh
 # Install dependencies
 flutter pub get
+# Start the app
+flutter run
 ```
 
 ## 🌍 How the prototype looks 
 <details>
- <summary> 📸 - Demo Images </summary>
+ <summary> <h3>📸 - Demo Images</h3> </summary>
 <img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/Demo_Images/AppDemo1.jpeg' width="45%"/>
 
 #
