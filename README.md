@@ -58,7 +58,7 @@ To run the project in your local environment, follow these steps: ⬇️
 ## 🌍 How it looks
 
 <details>
-<summary><h3> 📸 - Demo Images </h3></summary>
+<summary><h3> 📸 - Demo Images </h3> (Drop Down) </summary>
 
 
 <img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/WEBSITE/frontend/src/assets/assets_frontend/Demo1.png' width="100%"/>
@@ -115,7 +115,7 @@ flutter run
 
 ## 🌍 How the prototype looks 
 <details>
- <summary> <h3>📸 - Demo Images</h3> </summary>
+ <summary> <h3>📸 - Demo Images</h3> (Drop Down) </summary>
 <img src='https://github.com/Jasskaran-Singh-Shangari/SkillBridge/blob/main/Demo_Images/AppDemo1.jpeg' width="45%"/>
 
 #
